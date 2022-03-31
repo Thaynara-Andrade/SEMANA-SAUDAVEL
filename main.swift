@@ -4,6 +4,7 @@
 //
 //  Created by Thaynara da Silva Andrade on 23/03/22.
 //
+
 import Foundation
 
 var menuPersonalizado = menuPer()
@@ -32,20 +33,20 @@ var receitas: [String] = [ " \n ————————————----------\n
                            
    " \n ————————————----------——\n|  BOLO FIT DE BANANA 🍰 |\n -————————————-----------\n\n ▫️INDREDIENTES ▫️\n\n  * 4 bananas maduras;\n  * Uma xicará e 1/2 de aveia;\n  * 1 xícara de azeite de oliva extravirgem;\n  * 4 ovos;\n  * 1 xícara de uvas passas;\n  * 2 colheres de chá de bicarbonato de sódio;\n  * Canela em pó.\n\n ▫️MODO DE PREPARO▫️\n\n  Bata os ovos com o azeite e misture com as bananas amassadas. Quando obter uma uniforme, adicione as passas, a aveia, o bicarbonato e canela a gosto. Unte um fôrma e cubra o fundo dela com aveia. Despeje a massa e, por cima, coloque alguns pedaços de banana para decoração. Leve para assar por 35 minutos a 180°C. Quando o bolo passar o teste do palito, retire do forno, deixe esfriar e salpique canela por cima na hora de servir!\n",
                            
-   " \n ————————————----------——\n|  BOLINHO DE ARROZ 🍚 |\n -————————————-----------\n\n▫️INDREDIENTES ▫️\n\n  * 2 xícaras arroz integral cozido\n  * 2 colheres de sopa farinha de trigo integral\n  * 1 colher de sopa knor\n  * 1 colher de sopa aveia em flocos finos\n  * 4 colheres de sopa leite\n  * 2 ovo\n  * 100 gramas queijo mussarela ralado\n  * 1 cenoura ralada\n  * salsinha picada a gosto\n  * cebolinha picada a gosto\n  * pimenta dedo-de-moça picada a gosto\n  * ½ colher de chá fermento químico em pó\n\n▫️MODO DE PREPARO▫️\n\n  Preaqueça o forno em 210º C. Junte todos os ingredientes em uma tigela e misture bem até formar uma massa homogênea. Logo em seguida modele no formato de bolinhos e distribua-os em uma assadeira antiaderente, deixando uma espaço entre um e outro. Depois leve ao forno para assar por aproximadamente 20 minutos ou até dourar. Pronto para se deliciar!\n",
+   " \n ————————————----------——\n|   BOLINHO DE ARROZ 🍚  |\n -————————————-----------\n\n▫️INDREDIENTES▫️\n\n  * 2 xícaras arroz integral cozido\n  * 2 colheres de sopa farinha de trigo integral\n  * 1 colher de sopa knor\n  * 1 colher de sopa aveia em flocos finos\n  * 4 colheres de sopa leite\n  * 2 ovo\n  * 100 gramas queijo mussarela ralado\n  * 1 cenoura ralada\n  * salsinha picada a gosto\n  * cebolinha picada a gosto\n  * pimenta dedo-de-moça picada a gosto\n  * ½ colher de chá fermento químico em pó\n\n▫️MODO DE PREPARO▫️\n\n  Preaqueça o forno em 210º C. Junte todos os ingredientes em uma tigela e misture bem até formar uma massa homogênea. Logo em seguida modele no formato de bolinhos e distribua-os em uma assadeira antiaderente, deixando uma espaço entre um e outro. Depois leve ao forno para assar por aproximadamente 20 minutos ou até dourar. Pronto para se deliciar!\n",
 
 
         ]
-var personalizar: [String] = [ "EM MANUTENÇÃO",]
-
-var treino: [String] = ["EM MANUTENÇÃO",]
+var personalizar: [String] = [ "EM MANUTENÇÃO", "EM MANUTENÇÃO", "EM MANUTENÇÃO", "EM MANUTENÇÃO",]
+            
+var treino: [String] = [ "EM MANUTENÇÃO","EM MANUTENÇÃO","EM MANUTENÇÃO","EM MANUTENÇÃO",]
 
 //---------------------------------------------------------------------------------------------------------------//
 
 var menu: [String] = [ "\n ----------------------------------\n|  ✨ PROJETO SEMANAL SAUDÁVEL ✨  | \n ----------------------------------\n\n1️⃣ - 🍎 CARDÁPIO ", "2️⃣ - 🍲 RECEITAS FÁCEIS ", "3️⃣ - 📝 MENU PERSONALIZADO ",  "4️⃣ - 🏃🏽‍♀️ TREINO DIÁRIO \n",]
 var receita: [String] = [ "\n ----------------------------------------\n|  👩🏽‍🍳 BEM VINDO(A) A RECEITAS FÁCEIS 👩🏽‍🍳  | \n ----------------------------------------\n\n1️⃣ - 🫕 PURÊ DE ABÓBORA  ", "2️⃣ - 🥞 CREPIOCA DE BANANA  ", "3️⃣ - 🍰 BOLO FIT DE BANANA",  "4️⃣ - 🍚 BOLINHO DE ARROZ \n",]
-var menupersonalizado: [String] = [ "\n --------------------------------------------\n|  🍴 BEM VINDO(A) AO MENU PERSONALIZADO 🍴 | \n --------------------------------------------\n\n1️⃣ - ✅ INSIRA O ITEM ", "2️⃣ - ❌ REMOVA O ITEM", "3️⃣ - 👀 VER MENU",  "4️⃣ - ⏰ HORÁRIOS\n",]
-var treinodiario: [String] = [ "\n ---------------------------------------\n|  🏋🏻 BEM VINDO(A) AO TREINO DIÁRIO 🏋🏻  | \n ---------------------------------------\n\n1️⃣ - 🏋🏻 MUSCULAÇÃO", "2️⃣ - 💃🏻 DANÇA", "3️⃣ - 🏃🏽‍♀️ CAMINHADA", "4️⃣ - 🤸🏻‍♀️ FUNCIONAL\n",
+var menupersonalizado: [String] = [ "\n --------------------------------------------\n|  🍴 BEM VINDO(A) AO MENU PERSONALIZADO 🍴  | \n --------------------------------------------\n\n1️⃣ - ✅ INSIRA O ITEM ", "2️⃣ - ❌ REMOVA O ITEM", "3️⃣ - 👀 VER MENU",  "4️⃣ - ⏰ HORÁRIOS DISPONÍVEIS \n",]
+var treinodiario: [String] = [ "\n ---------------------------------------\n|  🏋🏻 BEM VINDO(A) AO TREINO DIÁRIO 🏋🏻  | \n ---------------------------------------\n\n1️⃣ - 💃🏻 DANÇA", "2️⃣ - 🏊🏼‍♂️ NATAÇÃO ", "3️⃣ - 🏃🏽‍♀️ CAMINHADA", "4️⃣ - 🤸🏻‍♀️ FUNCIONAL\n",
 ]
 
 for item in menu {
