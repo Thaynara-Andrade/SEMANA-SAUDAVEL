@@ -1,4 +1,4 @@
-# SEMANA-SAUDAVEL - Challenge de Swift
+# Semana saudável - Challenge de Swift
 
 STATUS: ⏳ EM DESENVOLVIMENTO
 
