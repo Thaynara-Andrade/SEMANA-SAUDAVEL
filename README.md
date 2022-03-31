@@ -8,4 +8,4 @@ FUNCIONALIDADES:
 - 🍴 MENU PERSONALIZADO
 - 🏃🏽‍♀️ TREINO DIÁRIO
 
-![SEMANASAUDAVEL](https://user-images.githubusercontent.com/81530813/161085224-fabaf99d-cad8-4fe9-bdb1-40754326d0a8.gif)
+<img width="1370" alt="Captura de Tela 2022-03-31 às 12 17 23" src="https://user-images.githubusercontent.com/81530813/161090708-7b587443-8559-475c-9579-11b7db6e1e65.png">
