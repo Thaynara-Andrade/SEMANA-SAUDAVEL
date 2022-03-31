@@ -36,21 +36,16 @@ var receitas: [String] = [ " \n ————————————----------\n
 
 
         ]
-var personalizar: [String] = [ "LEITE CONDENSADO + CACAU",
-                               "2 - Arroz de brocolis\n",
-                               "3 - Salada de repolho\n",
-            ]
-var treino: [String] = [ "LEITE CONDENSADO + CACAU",
-                         "2 - Arroz de brocolis\n",
-                         "3 - Salada de repolho\n",
-      ]
+var personalizar: [String] = [ "EM MANUTENÇÃO",]
+
+var treino: [String] = ["EM MANUTENÇÃO",]
 
 //---------------------------------------------------------------------------------------------------------------//
 
 var menu: [String] = [ "\n ----------------------------------\n|  ✨ PROJETO SEMANAL SAUDÁVEL ✨  | \n ----------------------------------\n\n1️⃣ - 🍎 CARDÁPIO ", "2️⃣ - 🍲 RECEITAS FÁCEIS ", "3️⃣ - 📝 MENU PERSONALIZADO ",  "4️⃣ - 🏃🏽‍♀️ TREINO DIÁRIO \n",]
 var receita: [String] = [ "\n ----------------------------------------\n|  👩🏽‍🍳 BEM VINDO(A) A RECEITAS FÁCEIS 👩🏽‍🍳  | \n ----------------------------------------\n\n1️⃣ - 🫕 PURÊ DE ABÓBORA  ", "2️⃣ - 🥞 CREPIOCA DE BANANA  ", "3️⃣ - 🍰 BOLO FIT DE BANANA",  "4️⃣ - 🍚 BOLINHO DE ARROZ \n",]
-var menupersonalizado: [String] = [ "\n --------------------------------------------\n|  ✨ BEM VINDO(A) AO MENU PERSONALIZADO ✨  | \n --------------------------------------------\n\n1️⃣ - INSIRA O ITEM ", "2️⃣ - REMOVA O ITEM", "3️⃣ - HORÁRIOS",  "4️⃣ - VER MENU PERSONALIZADO\n",]
-var treinodiario: [String] = [ "\n ---------------------------------------\n|  ✨ BEM VINDO(A) AO TREINO DIÁRIO ✨  | \n ---------------------------------------\n\n1️⃣ - FAÇA AO MENOS 30 MIN DE EXERCÍCIOS DIÁRIOS", "2️⃣ - PODE SER DANÇA", "3️⃣ - CAMINHADA", "4️⃣ - OU EXERCICIOS PERSONALIZADOS\n",
+var menupersonalizado: [String] = [ "\n --------------------------------------------\n|  🍴 BEM VINDO(A) AO MENU PERSONALIZADO 🍴 | \n --------------------------------------------\n\n1️⃣ - ✅ INSIRA O ITEM ", "2️⃣ - ❌ REMOVA O ITEM", "3️⃣ - 👀 VER MENU",  "4️⃣ - ⏰ HORÁRIOS\n",]
+var treinodiario: [String] = [ "\n ---------------------------------------\n|  🏋🏻 BEM VINDO(A) AO TREINO DIÁRIO 🏋🏻  | \n ---------------------------------------\n\n1️⃣ - 🏋🏻 MUSCULAÇÃO", "2️⃣ - 💃🏻 DANÇA", "3️⃣ - 🏃🏽‍♀️ CAMINHADA", "4️⃣ - 🤸🏻‍♀️ FUNCIONAL\n",
 ]
 
 for item in menu {
