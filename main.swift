@@ -102,5 +102,3 @@ print(treino[opcaoescolhida-1])
     print("\n⚠️ ESSA OPÇÃO NÃO É VÁLIDA ⚠️\n")
 }
 
-
-
